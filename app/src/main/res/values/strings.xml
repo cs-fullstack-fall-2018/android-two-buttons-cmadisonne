@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">twoButtonGame</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="p1_clicker">P1 Clicker</string>
+    <string name="p2_clicker">P2 Clicker</string>
+    <string name="P1_0">0</string>
+    <string name="P2_0">0</string>
+</resources>
